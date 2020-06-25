@@ -9,6 +9,8 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20
 
 ### Lecture 1: Course Overview
 
+https://www.youtube.com/watch?v=tZ_Jrc_nRJY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=2&t=130s
+
 ### Lecture 2: 
 
 ### Lecture 3: 
