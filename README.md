@@ -26,7 +26,11 @@ Jun 19, 2019
 https://www.youtube.com/watch?v=nH4rn3X8i0c&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=4&t=0s
 
 
-### Lecture 4: 
+### Lecture 4: Word Vectors 3
+
+Jun 19, 2019
+
+https://www.youtube.com/watch?v=pip8h9vjTHY&list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20&index=5&t=0s
 
 ### Lecture 5: 
 
